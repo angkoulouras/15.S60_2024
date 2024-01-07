@@ -17,6 +17,3 @@ The course comprises 8 self-contained modules. Each module consists of a 3-hour 
 - Session 6: Advanced Optimization
 - Session 7: Terminal, Git, and Project Management
 - Session 8: Distributed Computing and Tips & Tricks
-
-Introduction to Machine Learning with Python
-Terminal, Git, and Project Management
