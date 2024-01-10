@@ -1,8 +1,8 @@
 # Colab Notebooks
 
-1. [Preassignment](https://drive.google.com/file/d/1EnJnf94uWCpkfOwBQcvLhkoV8foYIhOE/view?usp=sharing)
-2. [Session Notebook on Fashion MNIST](https://drive.google.com/file/d/1rXn0C3YzhgUh4erqKjGWk4twu71fJNjc/view?usp=sharing)
-3. [GPT-based Notebook](https://drive.google.com/file/d/1AfupNRFGF7rzSZbGeK4M_13g5A-ItUAr/view?usp=sharing)
+1. [Preassignment](https://colab.research.google.com/drive/1_aFqfqfNIn1vDUeYW7Cx8K0fz0TTbjYJ?usp=sharing)
+2. [Session Notebook on Fashion MNIST](https://colab.research.google.com/drive/1UJWJ3KQb15lrEcbAw-xQsqAWr0-ljOGQ?usp=sharing)
+3. [GPT-based Notebook](https://colab.research.google.com/drive/1V3APz3GEAwSU0RLCBclS1R1lb6jDaINo?usp=sharing)
 
 # Preassignment 2
 
