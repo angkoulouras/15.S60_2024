@@ -1,10 +1,10 @@
 # Colab Notebooks
 
-1. [Preassignment](https://colab.research.google.com/drive/1rCwyWnMYuy8gZWRpSSR81cblFWPyZgXr?usp=sharing)
-2. [Session Notebook on Fashion MNIST](https://colab.research.google.com/drive/1Wp1MR3Au8MRtBWeS3U5apMH5ANZ30-zy?usp=sharing)
-3. [GPT-based Notebook](https://colab.research.google.com/drive/14FM27AfjOLKXOu4YLLY_FmPOwsL8n2XH?usp=sharing)
+1. [Preassignment](https://drive.google.com/file/d/1EnJnf94uWCpkfOwBQcvLhkoV8foYIhOE/view?usp=sharing)
+2. [Session Notebook on Fashion MNIST](https://drive.google.com/file/d/1rXn0C3YzhgUh4erqKjGWk4twu71fJNjc/view?usp=sharing)
+3. [GPT-based Notebook](https://drive.google.com/file/d/1AfupNRFGF7rzSZbGeK4M_13g5A-ItUAr/view?usp=sharing)
 
-# Preassignment 3
+# Preassignment 2
 
 As preassignment for session 3, we'll make sure we can open and execute a notebook in Google Colab.
 
