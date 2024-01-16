@@ -89,4 +89,4 @@ which should produce a cloud of points centered around the origin.
 
 ## Questions?
 
-Email Raluca at [rcobzaru@mit.edu](mailto:rcobzaru@mit.edu).
+Email Emily at [eyzhang@mit.edu](mailto:eyzhang@mit.edu).
