@@ -33,7 +33,7 @@ While you're there, please install the following packages:
 * LinearAlgebra
 * Printf
 
-### (Advanced) Set up a project enviroment
+### (Advanced) Optional: Set up a project enviroment
 
 Navigate to this folder, start Julia, and run the following:
 ```
