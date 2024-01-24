@@ -1,8 +1,8 @@
-# Pre-assignment 6
+# Pre-assignment
 
 *Note.* Any Julia version >= 1.7 is fine.
 
-0. Please have `Gurobi` installed. If not, please install it following the instructions in Pre-assignment 6.
+0. Please have `Gurobi` installed. If not, please install it following the instructions for the previous session.
 
 1. Now we install `Mosek`, which is a commercial solver for solving conic convex optimization:
    * Go to https://www.mosek.com/downloads/, scroll to *Default Installers (Preferred)*, then download and install the version based on your operating system.
