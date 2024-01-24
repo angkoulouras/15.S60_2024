@@ -18,7 +18,7 @@
    
      `using  MosekTools, Mosek, Convex, JuMP, Images, DelimitedFiles, Gadfly`
      
-     If installed properly, it will output nothing. **Take a screenshot of the `REPL` containing the two lines of code mentioned above and upload it as the pre-assignment 7.**
+     If installed properly, it will output nothing.
      
 
 If you have any issue during the installation phase, please contact `zikai@mit.edu` or `seanlo@mit.edu`. 
