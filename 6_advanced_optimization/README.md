@@ -21,4 +21,4 @@
      If installed properly, it will output nothing.
      
 
-If you have any issue during the installation phase, please contact `zikai@mit.edu` or `seanlo@mit.edu`. 
+If you have any issue during the installation phase, please contact `zikai@mit.edu` or `seanlo@mit.edu`. **Please note that although it is a pre-assignment, you do not need to submit anything on Canvas and it is not going to be graded either.**
