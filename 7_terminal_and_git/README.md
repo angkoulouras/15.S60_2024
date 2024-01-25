@@ -1,6 +1,6 @@
-# Preassignment 7
+# Preassignment
 
-Before this session (Session 7), please complete the following tasks. 
+Before this session, please complete the following tasks. 
 
 Completing the pre-assignment will ensure you have all of the accounts and software needed to follow along with the first session that covers the basics of Terminal, Git, Github, and project management.
 
