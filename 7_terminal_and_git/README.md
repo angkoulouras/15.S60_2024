@@ -30,7 +30,13 @@ To use terminal and git to push changes to Github, you need to tell git/terminal
 
 **Take a screenshot of your terminal/Git Bash output after successfully cloning an connecting Git and Github
 
-## Task 4: Submit screenshots on Canvas
+## Task 4: Make an Overleaf account
+We will be using Overleaf to cover the basics of LaTeX. Go to [www.overleaf.com](www.overleaf.com) and make a free account.
+
+## Task 5: Download Zotero and create an account
+Zotero is a tool to help organize and cite papers. Download Zotero and a browser connector [here](https://www.zotero.org/download/). Create a Zotero account [here](https://www.zotero.org/user/register).
+
+## Task 6: Submit screenshots on Canvas
 
 Put the screenshot from Tasks 2 in a single PDF file and submit on Canvas. 
 
