@@ -33,12 +33,16 @@ To use terminal and git to push changes to Github, you need to tell git/terminal
 ## Task 4: Make an Overleaf account
 We will be using Overleaf to cover the basics of LaTeX. Go to [www.overleaf.com](www.overleaf.com) and make a free account.
 
+**Take a screenshot of your Overleaf homepage after logging in.
+
 ## Task 5: Download Zotero and create an account
-Zotero is a tool to help organize and cite papers. Download Zotero and a browser connector [here](https://www.zotero.org/download/). Create a Zotero account [here](https://www.zotero.org/user/register).
+Zotero is a tool to help organize and cite papers. Download both Zotero and the browser connector [here](https://www.zotero.org/download/). Create a Zotero account [here](https://www.zotero.org/user/register). 
+
+**Take a screenshot of 1) the Zotero application on your computer, 2) the browser connector, and 3) the success page after validating your email for your Zotero account.
 
 ## Task 6: Submit screenshots on Canvas
 
-Put the screenshot from Tasks 2 in a single PDF file and submit on Canvas. 
+Put the screenshot from Tasks 2, 3, 4, and 5 in a single PDF file and submit on Canvas. 
 
 ## Questions? 
 
